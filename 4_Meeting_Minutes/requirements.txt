@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+openai
+huggingface-hub
+jupyter
+jupyterlab
+ipython
+requests
+python-dotenv
+bitsandbytes
+accelerate
